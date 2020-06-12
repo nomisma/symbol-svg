@@ -9,11 +9,11 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="Drawing_layer"
    data-name="Drawing layer"
-   viewBox="0 0 266.25485 347.76846"
+   viewBox="0 0 441.31158 396.15503"
    version="1.1"
-   sodipodi:docname="monogram.lorber.281.svg"
-   width="266.25485"
-   height="347.76846"
+   sodipodi:docname="monogram.lorber.291.svg"
+   width="441.31158"
+   height="396.15503"
    inkscape:version="0.92.3 (2405546, 2018-03-11)">
   <metadata
      id="metadata19">
@@ -40,8 +40,8 @@
      id="namedview17"
      showgrid="false"
      inkscape:zoom="0.44277674"
-     inkscape:cx="125.22243"
-     inkscape:cy="174.24605"
+     inkscape:cx="202.84994"
+     inkscape:cy="186.51242"
      inkscape:window-x="83"
      inkscape:window-y="27"
      inkscape:window-maximized="0"
@@ -49,38 +49,36 @@
   <defs
      id="defs4">
     <style
-       id="style2">.cls-1{fill:none;stroke:#000;stroke-linecap:round;stroke-linejoin:round;stroke-width:20px;}</style>
+       id="style2">.cls-1,.cls-2{fill:none;stroke:#000;stroke-linecap:round;stroke-linejoin:round;}.cls-1{stroke-width:20px;}.cls-2{stroke-width:19.49px;}</style>
   </defs>
   <title
-     id="title6">814</title>
-  <line
-     class="cls-1"
-     x1="10.142425"
-     y1="10.142425"
-     x2="10.142425"
-     y2="278.12244"
-     id="line8"
-     style="fill:none;stroke:#000000;stroke-width:20px;stroke-linecap:round;stroke-linejoin:round" />
-  <line
-     class="cls-1"
-     x1="256.11243"
-     y1="10.142425"
-     x2="256.11243"
-     y2="278.12244"
-     id="line10"
-     style="fill:none;stroke:#000000;stroke-width:20px;stroke-linecap:round;stroke-linejoin:round" />
-  <line
-     class="cls-1"
-     x1="10.142425"
-     y1="144.13242"
-     x2="256.11243"
-     y2="144.13242"
-     id="line12"
-     style="fill:none;stroke:#000000;stroke-width:20px;stroke-linecap:round;stroke-linejoin:round" />
+     id="title6">B85</title>
   <polyline
      class="cls-1"
-     points="361.08 430.62 274.4 266.5 184.7 430.62"
-     id="polyline14"
+     points="73.71 442.87 228.83 104.54 392.12 442.87 494.83 400.32"
+     id="polyline8"
      style="fill:none;stroke:#000000;stroke-width:20px;stroke-linecap:round;stroke-linejoin:round"
-     transform="translate(-141.27757,-92.977578)" />
+     transform="translate(-63.650058,-56.857382)" />
+  <polyline
+     class="cls-2"
+     points="418.13 229.25 307.88 276.67 229.71 335.76 154.26 282.2"
+     id="polyline10"
+     style="fill:none;stroke:#000000;stroke-width:19.48999977px;stroke-linecap:round;stroke-linejoin:round"
+     transform="translate(-63.650058,-56.857382)" />
+  <line
+     class="cls-1"
+     x1="164.75995"
+     y1="386.0126"
+     x2="165.17995"
+     y2="47.682617"
+     id="line12"
+     style="fill:none;stroke:#000000;stroke-width:20px;stroke-linecap:round;stroke-linejoin:round" />
+  <line
+     class="cls-1"
+     x1="287.41995"
+     y1="10.042619"
+     x2="165.17995"
+     y2="47.682617"
+     id="line14"
+     style="fill:none;stroke:#000000;stroke-width:20px;stroke-linecap:round;stroke-linejoin:round" />
 </svg>

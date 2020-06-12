@@ -7,14 +7,26 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   viewBox="0 0 293.54519 440.37979"
-   height="440.37979"
-   width="293.5452"
-   xml:space="preserve"
-   id="svg2"
+   id="Drawing_layer"
+   data-name="Drawing layer"
+   viewBox="0 0 352.32999 318.95999"
    version="1.1"
-   sodipodi:docname="monogram.lorber.249.svg"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"><sodipodi:namedview
+   sodipodi:docname="monogram.lorber.259.svg"
+   width="352.32999"
+   height="318.95999"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata15">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1"
@@ -25,62 +37,30 @@
      inkscape:pageshadow="2"
      inkscape:window-width="640"
      inkscape:window-height="480"
-     id="namedview22"
+     id="namedview13"
      showgrid="false"
-     inkscape:zoom="0.44250002"
-     inkscape:cx="146.77259"
-     inkscape:cy="213.52324"
+     inkscape:zoom="0.44277674"
+     inkscape:cx="172.75"
+     inkscape:cy="154.59"
      inkscape:window-x="83"
      inkscape:window-y="27"
      inkscape:window-maximized="0"
-     inkscape:current-layer="svg2" /><metadata
-     id="metadata8"><rdf:RDF><cc:Work
-         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
-     id="defs6"><clipPath
-       id="clipPath38"
-       clipPathUnits="userSpaceOnUse"><path
-         id="path36"
-         d="M 0,400 H 400 V 0 H 0 Z"
-         inkscape:connector-curvature="0" /></clipPath></defs><g
-     transform="matrix(1.3333333,0,0,-1.3333333,-119.89407,493.52322)"
-     id="g10"><g
-       transform="translate(200,360)"
-       id="g12"><path
-         id="path14"
-         style="fill:none;stroke:#000000;stroke-width:20;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-         d="M 0,0 V -310"
-         inkscape:connector-curvature="0" /></g><g
-       transform="translate(100,50)"
-       id="g16"><path
-         id="path18"
-         style="fill:none;stroke:#000000;stroke-width:20;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-         d="M 0,0 100,150"
-         inkscape:connector-curvature="0" /></g><g
-       transform="translate(300,50)"
-       id="g20"><path
-         id="path22"
-         style="fill:none;stroke:#000000;stroke-width:20;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-         d="M 0,0 -100,150"
-         inkscape:connector-curvature="0" /></g><g
-       transform="translate(200,80)"
-       id="g24"><path
-         id="path26"
-         style="fill:none;stroke:#000000;stroke-width:20;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-         d="M 0,0 -50,40"
-         inkscape:connector-curvature="0" /></g><g
-       transform="translate(200,80)"
-       id="g28"><path
-         id="path30"
-         style="fill:none;stroke:#000000;stroke-width:20;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-         d="M 0,0 50,40"
-         inkscape:connector-curvature="0" /></g><g
-       id="g32"><g
-         clip-path="url(#clipPath38)"
-         id="g34"><g
-           transform="translate(300,275)"
-           id="g40"><path
-             id="path42"
-             style="fill:none;stroke:#000000;stroke-width:20;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-             d="m 0,0 c 0,-30.375 -30,-55 -100,-55 -70,0 -100,24.625 -100,55 0,30.375 30,55 100,55 C -30,55 0,30.375 0,0 Z"
-             inkscape:connector-curvature="0" /></g></g></g></g></svg>
+     inkscape:current-layer="Drawing_layer" />
+  <defs
+     id="defs4">
+    <style
+       id="style2">.cls-1{fill:none;stroke:#000;stroke-linecap:round;stroke-linejoin:round;stroke-width:20px;}</style>
+  </defs>
+  <title
+     id="title6">Artboard 1</title>
+  <path
+     d="M 20,309.3 V 10 L 10,20 h 332.33 l -10,-10 v 147.11 c 0,12.87 20,12.89 20,0 V 10 a 10.14,10.14 0 0 0 -10,-10 H 10 A 10.14,10.14 0 0 0 0,10 v 299.3 c 0,12.87 20,12.89 20,0 z"
+     id="path8"
+     inkscape:connector-curvature="0" />
+  <path
+     class="cls-1"
+     d="M 149.14,263.25 V 41.03 c 0,0 93.08,-17 93.09,46.05 0,64 -85.08,47 -85.08,47"
+     id="path10"
+     inkscape:connector-curvature="0"
+     style="fill:none;stroke:#000000;stroke-width:20px;stroke-linecap:round;stroke-linejoin:round" />
+</svg>

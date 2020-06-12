@@ -7,14 +7,26 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   viewBox="0 0 293.33331 427.04645"
-   height="427.04645"
-   width="293.33331"
-   xml:space="preserve"
-   id="svg2"
+   id="Drawing_layer"
+   data-name="Drawing layer"
+   viewBox="0 0 254.23199 334.57837"
    version="1.1"
-   sodipodi:docname="monogram.lorber.251.svg"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"><sodipodi:namedview
+   sodipodi:docname="monogram.lorber.261.svg"
+   width="254.23199"
+   height="334.57837"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata17">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1"
@@ -25,56 +37,40 @@
      inkscape:pageshadow="2"
      inkscape:window-width="640"
      inkscape:window-height="480"
-     id="namedview20"
+     id="namedview15"
      showgrid="false"
-     inkscape:zoom="0.44250002"
-     inkscape:cx="146.66666"
-     inkscape:cy="213.52324"
+     inkscape:zoom="0.44277674"
+     inkscape:cx="111.691"
+     inkscape:cy="153.07242"
      inkscape:window-x="83"
      inkscape:window-y="27"
      inkscape:window-maximized="0"
-     inkscape:current-layer="svg2" /><metadata
-     id="metadata8"><rdf:RDF><cc:Work
-         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
-     id="defs6"><clipPath
-       id="clipPath22"
-       clipPathUnits="userSpaceOnUse"><path
-         id="path20"
-         d="M 0,400 H 400 V 0 H 0 Z"
-         inkscape:connector-curvature="0" /></clipPath></defs><g
-     transform="matrix(1.3333333,0,0,-1.3333333,-120,480.18989)"
-     id="g10"><g
-       transform="translate(200,350)"
-       id="g12"><path
-         id="path14"
-         style="fill:none;stroke:#000000;stroke-width:20;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-         d="M 0,0 V -300"
-         inkscape:connector-curvature="0" /></g><g
-       id="g16"><g
-         clip-path="url(#clipPath22)"
-         id="g18"><g
-           transform="translate(170,290)"
-           id="g24"><path
-             id="path26"
-             style="fill:none;stroke:#000000;stroke-width:20;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-             d="m 0,0 c -16.568,0 -30,13.432 -30,30 0,16.568 13.432,30 30,30"
-             inkscape:connector-curvature="0" /></g><g
-           transform="translate(200,350)"
-           id="g28"><path
-             id="path30"
-             style="fill:none;stroke:#000000;stroke-width:20;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-             d="M 0,0 H -30"
-             inkscape:connector-curvature="0" /></g><g
-           transform="translate(200,290)"
-           id="g32"><path
-             id="path34"
-             style="fill:none;stroke:#000000;stroke-width:20;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-             d="M 0,0 H -30"
-             inkscape:connector-curvature="0" /></g><g
-           transform="translate(300,175)"
-           id="g36"><path
-             id="path38"
-             style="fill:none;stroke:#000000;stroke-width:20;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-             d="m 0,0 c 0,-30.376 -30,-55 -100,-55 -70,0 -100,24.624 -100,55 0,30.375 30,55 100,55 C -30,55 0,30.375 0,0 Z"
-             inkscape:connector-curvature="0" /></g></g></g></g></svg>
+     inkscape:current-layer="Drawing_layer" />
+  <defs
+     id="defs4">
+    <style
+       id="style2">.cls-1{fill:none;stroke:#000;stroke-linecap:round;stroke-linejoin:round;stroke-width:20px;}</style>
+  </defs>
+  <title
+     id="title6">181</title>
+  <polyline
+     class="cls-1"
+     points="164.81 409.43 164.81 148.16 399.04 148.16 399.04 409.43"
+     id="polyline8"
+     style="fill:none;stroke:#000000;stroke-width:20px;stroke-linecap:round;stroke-linejoin:round"
+     transform="translate(-154.809,-84.994059)" />
+  <polyline
+     class="cls-1"
+     points="281.93 409.43 281.93 148.16 319.96 95.11"
+     id="polyline10"
+     style="fill:none;stroke:#000000;stroke-width:20px;stroke-linecap:round;stroke-linejoin:round"
+     transform="translate(-154.809,-84.994059)" />
+  <line
+     class="cls-1"
+     x1="87.081001"
+     y1="10.115942"
+     x2="127.12099"
+     y2="63.175941"
+     id="line12"
+     style="fill:none;stroke:#000000;stroke-width:20px;stroke-linecap:round;stroke-linejoin:round" />
+</svg>

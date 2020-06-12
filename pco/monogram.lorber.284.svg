@@ -9,11 +9,11 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="Drawing_layer"
    data-name="Drawing layer"
-   viewBox="0 0 352.29483 312.08484"
+   viewBox="0 0 282.68832 308.16809"
    version="1.1"
-   sodipodi:docname="monogram.lorber.284.svg"
-   width="352.29483"
-   height="312.08484"
+   sodipodi:docname="monogram.lorber.294.svg"
+   width="282.68832"
+   height="308.16809"
    inkscape:version="0.92.3 (2405546, 2018-03-11)">
   <metadata
      id="metadata17">
@@ -40,8 +40,8 @@
      id="namedview15"
      showgrid="false"
      inkscape:zoom="0.44277674"
-     inkscape:cx="172.35242"
-     inkscape:cy="162.72241"
+     inkscape:cx="140.96655"
+     inkscape:cy="142.43404"
      inkscape:window-x="83"
      inkscape:window-y="27"
      inkscape:window-maximized="0"
@@ -52,29 +52,27 @@
        id="style2">.cls-1{fill:none;stroke:#000;stroke-linecap:round;stroke-linejoin:round;stroke-width:20px;}</style>
   </defs>
   <title
-     id="title6">877</title>
+     id="title6">B110</title>
   <line
      class="cls-1"
-     x1="71.102425"
-     y1="301.94241"
-     x2="71.102425"
-     y2="10.142425"
+     x1="37.986553"
+     y1="10.114036"
+     x2="254.49655"
+     y2="298.05405"
      id="line8"
      style="fill:none;stroke:#000000;stroke-width:20px;stroke-linecap:round;stroke-linejoin:round" />
-  <line
+  <path
      class="cls-1"
-     x1="287.6824"
-     y1="301.94241"
-     x2="287.6824"
-     y2="10.142425"
-     id="line10"
+     d="m 10.08655,298.05404 218.74,-287.940002 c 0,0 63.35,24.68 37.95,63.61 -25.84,39.590002 -73.23,-17.18 -73.23,-17.18"
+     id="path10"
+     inkscape:connector-curvature="0"
      style="fill:none;stroke:#000000;stroke-width:20px;stroke-linecap:round;stroke-linejoin:round" />
   <line
      class="cls-1"
-     x1="10.142425"
-     y1="10.142425"
-     x2="342.1524"
-     y2="10.142425"
+     x1="201.21655"
+     y1="227.19403"
+     x2="63.916546"
+     y2="227.19403"
      id="line12"
      style="fill:none;stroke:#000000;stroke-width:20px;stroke-linecap:round;stroke-linejoin:round" />
 </svg>

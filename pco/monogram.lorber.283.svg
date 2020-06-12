@@ -9,14 +9,14 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="Drawing_layer"
    data-name="Drawing layer"
-   viewBox="0 0 305.4599 379.36447"
+   viewBox="0 0 419.46484 367.56"
    version="1.1"
-   sodipodi:docname="monogram.lorber.283.svg"
-   width="305.4599"
-   height="379.36447"
+   sodipodi:docname="monogram.lorber.293.svg"
+   width="419.46484"
+   height="367.56"
    inkscape:version="0.92.3 (2405546, 2018-03-11)">
   <metadata
-     id="metadata17">
+     id="metadata19">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -37,11 +37,11 @@
      inkscape:pageshadow="2"
      inkscape:window-width="640"
      inkscape:window-height="480"
-     id="namedview15"
+     id="namedview17"
      showgrid="false"
      inkscape:zoom="0.44277674"
-     inkscape:cx="145.03995"
-     inkscape:cy="199.01448"
+     inkscape:cx="208.28242"
+     inkscape:cy="192.01998"
      inkscape:window-x="83"
      inkscape:window-y="27"
      inkscape:window-maximized="0"
@@ -49,28 +49,35 @@
   <defs
      id="defs4">
     <style
-       id="style2">.cls-1{fill:none;stroke:#000;stroke-linecap:round;stroke-linejoin:round;stroke-width:20px;}</style>
+       id="style2">.cls-1,.cls-2{fill:none;stroke:#000;stroke-linecap:round;stroke-linejoin:round;}.cls-1{stroke-width:20px;}.cls-2{stroke-width:18.48px;}</style>
   </defs>
   <title
-     id="title6">874</title>
+     id="title6">B103</title>
   <polyline
      class="cls-1"
-     points="131.53 343.86 131.53 96.15 416.85 96.15 416.85 343.86"
+     points="68.36 392.78 141.66 392.78 269.56 165.72 388.72 392.78 467.54 392.78"
      id="polyline8"
      style="fill:none;stroke:#000000;stroke-width:20px;stroke-linecap:round;stroke-linejoin:round"
-     transform="translate(-121.46005,-86.15)" />
+     transform="translate(-58.217575,-90.959997)" />
   <polyline
      class="cls-1"
-     points="416.85 455.39 274.19 199.9 202.86 327.65 131.53 455.39"
+     points="388.72 392.78 389.89 165.72 146.37 165.72 141.66 392.78"
      id="polyline10"
      style="fill:none;stroke:#000000;stroke-width:20px;stroke-linecap:round;stroke-linejoin:round"
-     transform="translate(-121.46005,-86.15)" />
+     transform="translate(-58.217575,-90.959997)" />
   <line
      class="cls-1"
-     x1="216.26996"
-     y1="241.5"
-     x2="81.399948"
-     y2="241.5"
+     x1="138.86243"
+     y1="203.43002"
+     x2="272.85242"
+     y2="203.43002"
      id="line12"
      style="fill:none;stroke:#000000;stroke-width:20px;stroke-linecap:round;stroke-linejoin:round" />
+  <circle
+     class="cls-2"
+     cx="208.28242"
+     cy="183.78"
+     r="174.53999"
+     id="circle14"
+     style="fill:none;stroke:#000000;stroke-width:18.47999954px;stroke-linecap:round;stroke-linejoin:round" />
 </svg>

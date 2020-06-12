@@ -9,11 +9,11 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="Drawing_layer"
    data-name="Drawing layer"
-   viewBox="0 0 331.20639 272.67728"
+   viewBox="0 0 233.36487 349.90085"
    version="1.1"
-   sodipodi:docname="monogram.lorber.302.svg"
-   width="331.20639"
-   height="272.67728"
+   sodipodi:docname="monogram.lorber.312.svg"
+   width="233.36487"
+   height="349.90085"
    inkscape:version="0.92.3 (2405546, 2018-03-11)">
   <metadata
      id="metadata15">
@@ -35,13 +35,13 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="640"
-     inkscape:window-height="480"
+     inkscape:window-width="614"
+     inkscape:window-height="450"
      id="namedview13"
      showgrid="false"
      inkscape:zoom="0.44277674"
-     inkscape:cx="154.38538"
-     inkscape:cy="120.94242"
+     inkscape:cx="104.05243"
+     inkscape:cy="189.341"
      inkscape:window-x="83"
      inkscape:window-y="27"
      inkscape:window-maximized="0"
@@ -52,17 +52,19 @@
        id="style2">.cls-1{fill:none;stroke:#000;stroke-linecap:round;stroke-linejoin:round;stroke-width:20px;}</style>
   </defs>
   <title
-     id="title6">B155a2</title>
-  <polyline
+     id="title6">B374</title>
+  <path
      class="cls-1"
-     points="433.32 377.3 433.32 141.45 272.38 360.47 272.38 129"
-     id="polyline8"
-     style="fill:none;stroke:#000000;stroke-width:20px;stroke-linecap:round;stroke-linejoin:round"
-     transform="translate(-112.11462,-114.76514)" />
-  <polyline
+     d="M 223.22243,339.89984 H 10.142429 V 11.569835 c 0,0 118.130001,-15.4499999 119.590001,51.1 1.59,72.830005 -114.180001,57.620005 -114.180001,57.620005"
+     id="path8"
+     inkscape:connector-curvature="0"
+     style="fill:none;stroke:#000000;stroke-width:20px;stroke-linecap:round;stroke-linejoin:round" />
+  <line
      class="cls-1"
-     points="134.66 124.86 266.5 241.83 122.22 373.74"
-     id="polyline10"
-     style="fill:none;stroke:#000000;stroke-width:20px;stroke-linecap:round;stroke-linejoin:round"
-     transform="translate(-112.11462,-114.76514)" />
+     x1="223.22244"
+     y1="153.99983"
+     x2="10.142425"
+     y2="153.99983"
+     id="line10"
+     style="fill:none;stroke:#000000;stroke-width:20px;stroke-linecap:round;stroke-linejoin:round" />
 </svg>

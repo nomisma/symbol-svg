@@ -9,11 +9,11 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="Drawing_layer"
    data-name="Drawing layer"
-   viewBox="0 0 371.27106 376.4693"
+   viewBox="0 0 239.49257 390.24484"
    version="1.1"
-   sodipodi:docname="monogram.lorber.289.svg"
-   width="371.27106"
-   height="376.4693"
+   sodipodi:docname="monogram.lorber.299.svg"
+   width="239.49257"
+   height="390.24484"
    inkscape:version="0.92.3 (2405546, 2018-03-11)">
   <metadata
      id="metadata17">
@@ -40,8 +40,8 @@
      id="namedview15"
      showgrid="false"
      inkscape:zoom="0.44277674"
-     inkscape:cx="185.75059"
-     inkscape:cy="174.24948"
+     inkscape:cx="105.63041"
+     inkscape:cy="193.10242"
      inkscape:window-x="83"
      inkscape:window-y="27"
      inkscape:window-maximized="0"
@@ -52,25 +52,25 @@
        id="style2">.cls-1{fill:none;stroke:#000;stroke-linecap:round;stroke-linejoin:round;stroke-width:20px;}</style>
   </defs>
   <title
-     id="title6">B66</title>
+     id="title6">B153</title>
   <polyline
      class="cls-1"
-     points="90.81 430.62 159.91 281.9 239.3 111.04 386.33 430.62"
+     points="170.94 358.23 212.02 285.3 278.8 166.75 390.29 358.23"
      id="polyline8"
      style="fill:none;stroke:#000000;stroke-width:20px;stroke-linecap:round;stroke-linejoin:round"
-     transform="translate(-80.749408,-64.280184)" />
+     transform="translate(-160.86959,-69.357575)" />
   <line
      class="cls-1"
-     x1="237.77058"
-     y1="218.93982"
-     x2="79.160599"
-     y2="218.93982"
+     x1="119.7504"
+     y1="380.10242"
+     x2="119.7504"
+     y2="10.142425"
      id="line10"
      style="fill:none;stroke:#000000;stroke-width:20px;stroke-linecap:round;stroke-linejoin:round" />
   <polyline
      class="cls-1"
-     points="442 178.67 427.5 74.28 239.3 111.04"
+     points="215.05 279.92 280.62 333.99 345.91 282.01"
      id="polyline12"
      style="fill:none;stroke:#000000;stroke-width:20px;stroke-linecap:round;stroke-linejoin:round"
-     transform="translate(-80.749408,-64.280184)" />
+     transform="translate(-160.86959,-69.357575)" />
 </svg>

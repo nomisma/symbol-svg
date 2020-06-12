@@ -9,11 +9,11 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="Drawing_layer"
    data-name="Drawing layer"
-   viewBox="0 0 297.81363 340.16586"
+   viewBox="0 0 270.711 333.74344"
    version="1.1"
-   sodipodi:docname="monogram.lorber.264.svg"
-   width="297.81363"
-   height="340.16586"
+   sodipodi:docname="monogram.lorber.274.svg"
+   width="270.711"
+   height="333.74344"
    inkscape:version="0.92.3 (2405546, 2018-03-11)">
   <metadata
      id="metadata15">
@@ -40,8 +40,8 @@
      id="namedview13"
      showgrid="false"
      inkscape:zoom="0.44277674"
-     inkscape:cx="138.37405"
-     inkscape:cy="175.06587"
+     inkscape:cx="125.081"
+     inkscape:cy="174.26242"
      inkscape:window-x="83"
      inkscape:window-y="27"
      inkscape:window-maximized="0"
@@ -52,16 +52,16 @@
        id="style2">.cls-1{fill:none;stroke:#000;stroke-linecap:round;stroke-linejoin:round;stroke-width:20px;}</style>
   </defs>
   <title
-     id="title6">245</title>
+     id="title6">639</title>
   <polyline
      class="cls-1"
-     points="139.78 431.45 277.92 243.26 413.06 431.45"
+     points="151.42 430.62 151.42 117.02 379.76 117.02"
      id="polyline8"
      style="fill:none;stroke:#000000;stroke-width:20px;stroke-linecap:round;stroke-linejoin:round"
-     transform="translate(-128.12595,-101.4)" />
+     transform="translate(-141.419,-107.019)" />
   <path
      class="cls-1"
-     d="M 11.654045,123.84 H 284.93405 c 0,0 22,-113.84 -56.06,-113.11 -80.83,0.75 -78.89,107.11 -78.89,107.11 0,0 2.82,-107.84 -65.250005,-107.84 -92.0899995,0 -73.08,113.84 -73.08,113.84 z"
+     d="m 183.581,323.601 v -216.17 c 0,0 77.13,-16.67 77.13,52.05 0,49.44 -73.07,39.29 -73.07,39.29 l -172.53,-1"
      id="path10"
      inkscape:connector-curvature="0"
      style="fill:none;stroke:#000000;stroke-width:20px;stroke-linecap:round;stroke-linejoin:round" />

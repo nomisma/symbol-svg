@@ -9,14 +9,14 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="Drawing_layer"
    data-name="Drawing layer"
-   viewBox="0 0 421.47366 360.57037"
+   viewBox="0 0 301.71484 309.22461"
    version="1.1"
-   sodipodi:docname="monogram.lorber.268.svg"
-   width="421.47366"
-   height="360.57037"
+   sodipodi:docname="monogram.lorber.278.svg"
+   width="301.71484"
+   height="309.22461"
    inkscape:version="0.92.3 (2405546, 2018-03-11)">
   <metadata
-     id="metadata17">
+     id="metadata15">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -37,11 +37,11 @@
      inkscape:pageshadow="2"
      inkscape:window-width="640"
      inkscape:window-height="480"
-     id="namedview15"
+     id="namedview13"
      showgrid="false"
      inkscape:zoom="0.44277674"
-     inkscape:cx="203.84091"
-     inkscape:cy="165.08242"
+     inkscape:cx="163.27242"
+     inkscape:cy="162.5936"
      inkscape:window-x="83"
      inkscape:window-y="27"
      inkscape:window-maximized="0"
@@ -52,23 +52,17 @@
        id="style2">.cls-1{fill:none;stroke:#000;stroke-linecap:round;stroke-linejoin:round;stroke-width:20px;}</style>
   </defs>
   <title
-     id="title6">465</title>
-  <polyline
-     class="cls-1"
-     points="72.72 421.44 231.88 81.1 398.04 421.44"
-     id="polyline8"
-     style="fill:none;stroke:#000000;stroke-width:20px;stroke-linecap:round;stroke-linejoin:round"
-     transform="translate(-62.65909,-71.012049)" />
+     id="title6">721</title>
   <path
+     d="m 291.57242,309.211 a 10,10 0 0 1 -9,-5.64 L 151.46242,32.861005 19.122422,303.601 A 10.013596,10.013596 0 1 1 1.1224221,294.821 L 142.52242,5.6110049 a 10,10 0 0 1 9,-5.61000002 v 0 a 10,10 0 0 1 9,5.64000002 L 300.57242,294.851 a 10,10 0 0 1 -9,14.36 z"
+     id="path8"
+     inkscape:connector-curvature="0" />
+  <line
      class="cls-1"
-     d="m 169.22091,10.087951 186.18,145.139999 V 10.087951 c 0,0 55.06,-3.0000001 56.06,31 1,34 -50.05,34 -50.05,34"
-     id="path10"
-     inkscape:connector-curvature="0"
+     x1="10.142425"
+     y1="10.001"
+     x2="291.57242"
+     y2="10.001"
+     id="line10"
      style="fill:none;stroke:#000000;stroke-width:20px;stroke-linecap:round;stroke-linejoin:round" />
-  <polyline
-     class="cls-1"
-     points="231.88 421.44 231.88 266.5 322.4 266.5 145.17 266.5"
-     id="polyline12"
-     style="fill:none;stroke:#000000;stroke-width:20px;stroke-linecap:round;stroke-linejoin:round"
-     transform="translate(-62.65909,-71.012049)" />
 </svg>

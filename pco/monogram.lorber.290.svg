@@ -9,14 +9,14 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="Drawing_layer"
    data-name="Drawing layer"
-   viewBox="0 0 334.1409 410.59485"
+   viewBox="0 0 365.94684 264.43301"
    version="1.1"
-   sodipodi:docname="monogram.lorber.290.svg"
-   width="334.1409"
-   height="410.59485"
+   sodipodi:docname="monogram.lorber.300.svg"
+   width="365.94684"
+   height="264.43301"
    inkscape:version="0.92.3 (2405546, 2018-03-11)">
   <metadata
-     id="metadata17">
+     id="metadata15">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -37,11 +37,11 @@
      inkscape:pageshadow="2"
      inkscape:window-width="640"
      inkscape:window-height="480"
-     id="namedview15"
+     id="namedview13"
      showgrid="false"
      inkscape:zoom="0.44277674"
-     inkscape:cx="158.83592"
-     inkscape:cy="201.19241"
+     inkscape:cx="176.9477"
+     inkscape:cy="120.93449"
      inkscape:window-x="83"
      inkscape:window-y="27"
      inkscape:window-maximized="0"
@@ -52,25 +52,19 @@
        id="style2">.cls-1{fill:none;stroke:#000;stroke-linecap:round;stroke-linejoin:round;stroke-width:20px;}</style>
   </defs>
   <title
-     id="title6">B84</title>
+     id="title6">B154A</title>
   <polyline
      class="cls-1"
-     points="117.73 457.55 276.2 150.88 431.74 457.55"
+     points="99.6 377.3 185.06 133 273.53 296.87 356.98 133 445.45 377.3"
      id="polyline8"
      style="fill:none;stroke:#000000;stroke-width:20px;stroke-linecap:round;stroke-linejoin:round"
-     transform="translate(-107.66408,-57.097573)" />
+     transform="translate(-89.552302,-123.00147)" />
   <line
      class="cls-1"
-     x1="167.06593"
-     y1="400.45242"
-     x2="167.06593"
-     y2="10.142425"
+     x1="311.21768"
+     y1="130.92853"
+     x2="205.84769"
+     y2="130.92853"
      id="line10"
-     style="fill:none;stroke:#000000;stroke-width:20px;stroke-linecap:round;stroke-linejoin:round" />
-  <path
-     class="cls-1"
-     d="m 240.43592,253.71243 c 0,0 -173.099995,-1.46 -179.019995,-99.81 -5.92,-98.350003 107.119995,-60.130003 107.119995,-60.130003 l -74.829995,-71.87"
-     id="path12"
-     inkscape:connector-curvature="0"
      style="fill:none;stroke:#000000;stroke-width:20px;stroke-linecap:round;stroke-linejoin:round" />
 </svg>

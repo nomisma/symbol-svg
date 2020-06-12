@@ -9,11 +9,11 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="Drawing_layer"
    data-name="Drawing layer"
-   viewBox="0 0 323.68271 348.35535"
+   viewBox="0 0 334.1409 410.59485"
    version="1.1"
-   sodipodi:docname="monogram.lorber.280.svg"
-   width="323.68271"
-   height="348.35535"
+   sodipodi:docname="monogram.lorber.290.svg"
+   width="334.1409"
+   height="410.59485"
    inkscape:version="0.92.3 (2405546, 2018-03-11)">
   <metadata
      id="metadata17">
@@ -40,8 +40,8 @@
      id="namedview15"
      showgrid="false"
      inkscape:zoom="0.44277674"
-     inkscape:cx="160.64367"
-     inkscape:cy="183.47242"
+     inkscape:cx="158.83592"
+     inkscape:cy="201.19241"
      inkscape:window-x="83"
      inkscape:window-y="27"
      inkscape:window-maximized="0"
@@ -52,25 +52,25 @@
        id="style2">.cls-1{fill:none;stroke:#000;stroke-linecap:round;stroke-linejoin:round;stroke-width:20px;}</style>
   </defs>
   <title
-     id="title6">755a</title>
+     id="title6">B84</title>
   <polyline
      class="cls-1"
-     points="115.96 355.53 115.96 111.72 419.44 111.72 419.44 355.53"
+     points="117.73 457.55 276.2 150.88 431.74 457.55"
      id="polyline8"
      style="fill:none;stroke:#000000;stroke-width:20px;stroke-linecap:round;stroke-linejoin:round"
-     transform="translate(-105.85633,-101.61707)" />
-  <polyline
-     class="cls-1"
-     points="274.76 439.83 274.76 262.16 115.96 111.72"
-     id="polyline10"
-     style="fill:none;stroke:#000000;stroke-width:20px;stroke-linecap:round;stroke-linejoin:round"
-     transform="translate(-105.85633,-101.61707)" />
+     transform="translate(-107.66408,-57.097573)" />
   <line
      class="cls-1"
-     x1="313.58368"
-     y1="10.102935"
-     x2="168.90367"
-     y2="160.54294"
-     id="line12"
+     x1="167.06593"
+     y1="400.45242"
+     x2="167.06593"
+     y2="10.142425"
+     id="line10"
+     style="fill:none;stroke:#000000;stroke-width:20px;stroke-linecap:round;stroke-linejoin:round" />
+  <path
+     class="cls-1"
+     d="m 240.43592,253.71243 c 0,0 -173.099995,-1.46 -179.019995,-99.81 -5.92,-98.350003 107.119995,-60.130003 107.119995,-60.130003 l -74.829995,-71.87"
+     id="path12"
+     inkscape:connector-curvature="0"
      style="fill:none;stroke:#000000;stroke-width:20px;stroke-linecap:round;stroke-linejoin:round" />
 </svg>

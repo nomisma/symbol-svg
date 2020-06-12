@@ -9,11 +9,11 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="Drawing_layer"
    data-name="Drawing layer"
-   viewBox="0 0 315.302 391.51016"
+   viewBox="0 0 327.04099 314.81241"
    version="1.1"
-   sodipodi:docname="monogram.lorber.266.svg"
-   width="315.302"
-   height="391.51016"
+   sodipodi:docname="monogram.lorber.276.svg"
+   width="327.04099"
+   height="314.81241"
    inkscape:version="0.92.3 (2405546, 2018-03-11)">
   <metadata
      id="metadata15">
@@ -40,8 +40,8 @@
      id="namedview13"
      showgrid="false"
      inkscape:zoom="0.44277674"
-     inkscape:cx="159.741"
-     inkscape:cy="175.94773"
+     inkscape:cx="182.9"
+     inkscape:cy="130.70242"
      inkscape:window-x="83"
      inkscape:window-y="27"
      inkscape:window-maximized="0"
@@ -52,19 +52,17 @@
        id="style2">.cls-1{fill:none;stroke:#000;stroke-linecap:round;stroke-linejoin:round;stroke-width:20px;}</style>
   </defs>
   <title
-     id="title6">306b</title>
+     id="title6">667</title>
+  <path
+     class="cls-1"
+     d="m 83.92,219.36999 v -207 c 0,0 -73.92,-9.0000003 -73.92,45.49 0,56.8 69.37,42.08 69.37,42.08"
+     id="path8"
+     inkscape:connector-curvature="0"
+     style="fill:none;stroke:#000000;stroke-width:20px;stroke-linecap:round;stroke-linejoin:round" />
   <polyline
      class="cls-1"
-     points="116.76 61.08 116.76 432.45 270.92 204.22 412.06 432.45 412.06 61.08"
-     id="polyline8"
+     points="400.64 387.06 400.64 92.39 160.38 94.87"
+     id="polyline10"
      style="fill:none;stroke:#000000;stroke-width:20px;stroke-linecap:round;stroke-linejoin:round"
-     transform="translate(-106.759,-50.937575)" />
-  <line
-     class="cls-1"
-     x1="89.080994"
-     y1="275.40244"
-     x2="234.78101"
-     y2="275.40244"
-     id="line10"
-     style="fill:none;stroke:#000000;stroke-width:20px;stroke-linecap:round;stroke-linejoin:round" />
+     transform="translate(-83.6,-82.39001)" />
 </svg>

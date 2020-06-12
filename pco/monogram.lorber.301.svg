@@ -7,13 +7,13 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   id="Base_image"
-   data-name="Base image"
-   viewBox="0 0 309.7579 292.0257"
+   id="Drawing_layer"
+   data-name="Drawing layer"
+   viewBox="0 0 243.62485 327.41962"
    version="1.1"
-   sodipodi:docname="monogram.lorber.301.svg"
-   width="309.7579"
-   height="292.0257"
+   sodipodi:docname="monogram.lorber.311.svg"
+   width="243.62485"
+   height="327.41962"
    inkscape:version="0.92.3 (2405546, 2018-03-11)">
   <metadata
      id="metadata17">
@@ -40,37 +40,39 @@
      id="namedview15"
      showgrid="false"
      inkscape:zoom="0.44277674"
-     inkscape:cx="156.75791"
-     inkscape:cy="148.01633"
+     inkscape:cx="121.91243"
+     inkscape:cy="157.191"
      inkscape:window-x="83"
      inkscape:window-y="27"
      inkscape:window-maximized="0"
-     inkscape:current-layer="Base_image" />
+     inkscape:current-layer="Drawing_layer" />
   <defs
      id="defs4">
     <style
        id="style2">.cls-1{fill:none;stroke:#000;stroke-linecap:round;stroke-linejoin:round;stroke-width:20px;}</style>
   </defs>
   <title
-     id="title6">B155a1</title>
-  <polygon
+     id="title6">monogram.lorber.311</title>
+  <polyline
      class="cls-1"
-     points="409.5,133 409.5,404.52 297.28,153.92 185.06,404.52 185.06,133 "
-     id="polygon8"
+     points="378.07 106.35 154.73 106.35 154.73 413.69 378.07 413.69"
+     id="polyline8"
      style="fill:none;stroke:#000000;stroke-width:20px;stroke-linecap:round;stroke-linejoin:round"
-     transform="translate(-109.74209,-122.49064)" />
+     transform="translate(-144.58757,-96.271374)" />
   <line
      class="cls-1"
-     x1="246.5979"
-     y1="163.31935"
-     x2="128.46791"
-     y2="163.31935"
+     x1="203.83244"
+     y1="163.74861"
+     x2="10.142425"
+     y2="163.74861"
      id="line10"
      style="fill:none;stroke:#000000;stroke-width:20px;stroke-linecap:round;stroke-linejoin:round" />
-  <path
+  <line
      class="cls-1"
-     d="m 75.317911,10.50936 c 0,0 -59.21,-8.8800004 -65,48.57 -5.7899996,57.45 65,48 65,48"
-     id="path12"
-     inkscape:connector-curvature="0"
+     x1="233.48244"
+     y1="10.078624"
+     x2="18.532425"
+     y2="151.21863"
+     id="line12"
      style="fill:none;stroke:#000000;stroke-width:20px;stroke-linecap:round;stroke-linejoin:round" />
 </svg>
