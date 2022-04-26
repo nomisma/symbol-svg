@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="Export"
+   viewBox="0 0 429.16083 251.35689"
+   version="1.1"
+   sodipodi:docname="monogram.kharoshthi.119.svg"
+   width="429.16083"
+   height="251.35689"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+  <metadata
+     id="metadata19">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview17"
+     showgrid="false"
+     inkscape:zoom="0.44277674"
+     inkscape:cx="212.62552"
+     inkscape:cy="115.5747"
+     inkscape:window-x="88"
+     inkscape:window-y="27"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="Export" />
+  <defs
+     id="defs4">
+    <style
+       id="style2">.cls-1{fill:none;stroke:#000;stroke-linecap:round;stroke-linejoin:round;stroke-width:20px;}</style>
+  </defs>
+  <title
+     id="title6">onogram.kharoshthi.119</title>
+  <path
+     class="cls-1"
+     d="m 25.125521,76.282188 c 0,0 16,-65 71,-46 54.999999,19 27.999999,82.000002 27.999999,82.000002 l -109.999999,125 H 170.12552"
+     id="path8"
+     inkscape:connector-curvature="0"
+     style="fill:none;stroke:#000000;stroke-width:20px;stroke-linecap:round;stroke-linejoin:round" />
+  <line
+     class="cls-1"
+     x1="205.12552"
+     y1="27.282188"
+     x2="10.125521"
+     y2="132.28218"
+     id="line10"
+     style="fill:none;stroke:#000000;stroke-width:20px;stroke-linecap:round;stroke-linejoin:round" />
+  <path
+     class="cls-1"
+     d="m 288.12552,52.282188 c 0,0 15,-61 77,-37 62,24 11,84 11,84 l -48,77.000002 c 0,0 -14,43 26,61 40,18 62,-25 65,-37"
+     id="path12"
+     inkscape:connector-curvature="0"
+     style="fill:none;stroke:#000000;stroke-width:20px;stroke-linecap:round;stroke-linejoin:round" />
+  <line
+     class="cls-1"
+     x1="286.12552"
+     y1="132.28218"
+     x2="414.12552"
+     y2="132.28218"
+     id="line14"
+     style="fill:none;stroke:#000000;stroke-width:20px;stroke-linecap:round;stroke-linejoin:round" />
+</svg>

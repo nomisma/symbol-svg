@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="Layer_1"
+   data-name="Layer 1"
+   viewBox="0 0 250.14136 346.00201"
+   version="1.1"
+   sodipodi:docname="monogram.bop.121.svg"
+   width="250.14136"
+   height="346.00201"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+  <metadata
+     id="metadata18">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview16"
+     showgrid="false"
+     inkscape:zoom="0.44277674"
+     inkscape:cx="129.64242"
+     inkscape:cy="171.001"
+     inkscape:window-x="88"
+     inkscape:window-y="27"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="Layer_1" />
+  <defs
+     id="defs7">
+    <style
+       id="style2">.cls-1,.cls-3{fill:none;}.cls-2{clip-path:url(#clip-path);}.cls-3{stroke:#000;stroke-linecap:round;stroke-linejoin:round;stroke-width:20px;}</style>
+    <clipPath
+       id="clip-path">
+      <rect
+         class="cls-1"
+         x="-1"
+         y="-1.5"
+         width="533"
+         height="533"
+         id="rect4"
+         style="fill:none" />
+    </clipPath>
+  </defs>
+  <title
+     id="title9">b121</title>
+  <g
+     class="cls-2"
+     clip-path="url(#clip-path)"
+     id="g13"
+     transform="translate(-136.85758,-91.499)">
+    <polyline
+       class="cls-3"
+       points="147 101.5 371 101.5 253 270.5 377 427.5 153 427.5"
+       id="polyline11"
+       style="fill:none;stroke:#000000;stroke-width:20px;stroke-linecap:round;stroke-linejoin:round" />
+  </g>
+</svg>
